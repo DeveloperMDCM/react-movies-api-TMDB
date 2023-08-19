@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.dropdown2:hover .dropdown-menu2 {
+  display: block;
+}
+
+
+
+body {
+  background-color: #000;
+}
